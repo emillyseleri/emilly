@@ -1,0 +1,28 @@
+body { background-color: chartreuse;}
+h1 {font-size: 200%;
+text-align: center;
+color: aqua;}
+
+#il{ margin-left: 10%;
+     border-width: 15%;
+    border-color: blueviolet;
+}
+
+h2{font-size: 160%;
+text-align: center;
+color: cornflowerblue;
+}
+
+#i2{margin-left: 10%;
+border-width: 20%;
+}
+h3{font-size: 160%;
+text-align: center;
+color: black;
+}
+#i3{margin-left: 10%;
+}
+
+#il{width: 80%;}
+#i2{width: 80%;}
+#i3{width: 80%;}
